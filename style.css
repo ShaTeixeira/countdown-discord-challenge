@@ -116,7 +116,7 @@ button:hover {
 /*Content Image*/
 
 .ContentImage {
-  background-image: url("./Assets/rocket.svg");
+  background-image: url("./assets/rocket.svg");
   background-repeat: no-repeat;
   background-size: 80%;
   background-position: center;
